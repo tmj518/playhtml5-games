@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- 首页 -->
+    <url>
+        <loc>https://playhtml5.com/</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- 协议页面 -->
+    <url>
+        <loc>https://playhtml5.com/terms.html</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/privacy.html</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/copyright.html</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- 游戏页面 -->
+        <url>
+        <loc>https://playhtml5.com/games/1001.html</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/games/1002.html</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    
+    <!-- 分类页面 -->
+        <url>
+        <loc>https://playhtml5.com/#all</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#new</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#popular</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#puzzle</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#action</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#arcade</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#strategy</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#adventure</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#card</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#sports</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#educational</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://playhtml5.com/#casual</loc>
+        <lastmod>2025-07-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>

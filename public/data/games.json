@@ -1,0 +1,274 @@
+{
+  "games": [
+    {
+      "id": 1001,
+      "title": {
+        "en": "ACTION_IN1 Game",
+        "zh": "ACTION_IN1 小游戏",
+        "ja": "ACTION_IN1 ゲーム",
+        "ko": "ACTION_IN1 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 action game!",
+        "zh": "全新HTML5action小游戏！",
+        "ja": "新しいHTML5actionゲーム！",
+        "ko": "새로운 HTML5 action 게임!"
+      },
+      "image": "/images/games/action-in1.jpg",
+      "category": [
+        "action"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/action_in1.html"
+    },
+    {
+      "id": 1002,
+      "title": {
+        "en": "CARD_T1 Game",
+        "zh": "CARD_T1 小游戏",
+        "ja": "CARD_T1 ゲーム",
+        "ko": "CARD_T1 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 card game!",
+        "zh": "全新HTML5card小游戏！",
+        "ja": "新しいHTML5cardゲーム！",
+        "ko": "새로운 HTML5 card 게임!"
+      },
+      "image": "/images/games/card-t1.jpg",
+      "category": [
+        "card"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/card_t1.html"
+    },
+    {
+      "id": 1003,
+      "title": {
+        "en": "EDUCATIONAL_T3 Game",
+        "zh": "EDUCATIONAL_T3 小游戏",
+        "ja": "EDUCATIONAL_T3 ゲーム",
+        "ko": "EDUCATIONAL_T3 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 educational game!",
+        "zh": "全新HTML5educational小游戏！",
+        "ja": "新しいHTML5educationalゲーム！",
+        "ko": "새로운 HTML5 educational 게임!"
+      },
+      "image": "/images/games/educational-t3.jpg",
+      "category": [
+        "educational"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/educational_t3.html"
+    },
+    {
+      "id": 1004,
+      "title": {
+        "en": "NEW_IN33 Game",
+        "zh": "NEW_IN33 小游戏",
+        "ja": "NEW_IN33 ゲーム",
+        "ko": "NEW_IN33 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 new game!",
+        "zh": "全新HTML5new小游戏！",
+        "ja": "新しいHTML5newゲーム！",
+        "ko": "새로운 HTML5 new 게임!"
+      },
+      "image": "/images/games/new-in33.jpg",
+      "category": [
+        "new"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/new_in33.html"
+    },
+    {
+      "id": 1005,
+      "title": {
+        "en": "POPULAR_IN3 Game",
+        "zh": "POPULAR_IN3 小游戏",
+        "ja": "POPULAR_IN3 ゲーム",
+        "ko": "POPULAR_IN3 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 popular game!",
+        "zh": "全新HTML5popular小游戏！",
+        "ja": "新しいHTML5popularゲーム！",
+        "ko": "새로운 HTML5 popular 게임!"
+      },
+      "image": "/images/games/popular-in3.jpg",
+      "category": [
+        "popular"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/popular_in3.html"
+    },
+    {
+      "id": 1006,
+      "title": {
+        "en": "POPULAR_IN4 Game",
+        "zh": "POPULAR_IN4 小游戏",
+        "ja": "POPULAR_IN4 ゲーム",
+        "ko": "POPULAR_IN4 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 popular game!",
+        "zh": "全新HTML5popular小游戏！",
+        "ja": "新しいHTML5popularゲーム！",
+        "ko": "새로운 HTML5 popular 게임!"
+      },
+      "image": "/images/games/popular-in4.jpg",
+      "category": [
+        "popular"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/popular_in4.html"
+    },
+    {
+      "id": 1007,
+      "title": {
+        "en": "POPULAR_IN5 Game",
+        "zh": "POPULAR_IN5 小游戏",
+        "ja": "POPULAR_IN5 ゲーム",
+        "ko": "POPULAR_IN5 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 popular game!",
+        "zh": "全新HTML5popular小游戏！",
+        "ja": "新しいHTML5popularゲーム！",
+        "ko": "새로운 HTML5 popular 게임!"
+      },
+      "image": "/images/games/popular-in5.jpg",
+      "category": [
+        "popular"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/popular_in5.html"
+    },
+    {
+      "id": 1008,
+      "title": {
+        "en": "PUZZLE_2048 Game",
+        "zh": "PUZZLE_2048 小游戏",
+        "ja": "PUZZLE_2048 ゲーム",
+        "ko": "PUZZLE_2048 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 puzzle game!",
+        "zh": "全新HTML5puzzle小游戏！",
+        "ja": "新しいHTML5puzzleゲーム！",
+        "ko": "새로운 HTML5 puzzle 게임!"
+      },
+      "image": "/images/games/puzzle-2048.jpg",
+      "category": [
+        "puzzle"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/puzzle_2048.html"
+    },
+    {
+      "id": 1009,
+      "title": {
+        "en": "SPORTS_T2 Game",
+        "zh": "SPORTS_T2 小游戏",
+        "ja": "SPORTS_T2 ゲーム",
+        "ko": "SPORTS_T2 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 sports game!",
+        "zh": "全新HTML5sports小游戏！",
+        "ja": "新しいHTML5sportsゲーム！",
+        "ko": "새로운 HTML5 sports 게임!"
+      },
+      "image": "/images/games/sports-t2.jpg",
+      "category": [
+        "sports"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/sports_t2.html"
+    },
+    {
+      "id": 1010,
+      "title": {
+        "en": "STRATEGY_IN5 Game",
+        "zh": "STRATEGY_IN5 小游戏",
+        "ja": "STRATEGY_IN5 ゲーム",
+        "ko": "STRATEGY_IN5 게임"
+      },
+      "description": {
+        "en": "A brand new HTML5 strategy game!",
+        "zh": "全新HTML5strategy小游戏！",
+        "ja": "新しいHTML5strategyゲーム！",
+        "ko": "새로운 HTML5 strategy 게임!"
+      },
+      "image": "/images/games/strategy-in5.jpg",
+      "category": [
+        "strategy"
+      ],
+      "rating": 4.8,
+      "developer": "AutoSync",
+      "published": "2025-07-11",
+      "plays": "0+",
+      "regions": [
+        "global"
+      ],
+      "url": "/games/strategy_in5.html"
+    }
+  ]
+}

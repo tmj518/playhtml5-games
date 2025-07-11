@@ -1,0 +1,30 @@
+{
+  "games": [
+    {
+      "id": 1001,
+      "title": {"en": "IN33 Action Game", "zh": "IN33 动作小游戏", "ja": "IN33 アクションゲーム", "ko": "IN33 액션 게임"},
+      "description": {"en": "A fun HTML5 action game you can play directly!", "zh": "一个可以直接试玩的HTML5动作小游戏！", "ja": "すぐに遊べる楽しいHTML5アクションゲーム！", "ko": "바로 플레이할 수 있는 재미있는 HTML5 액션 게임!"},
+      "image": "/images/games/in33.jpg",
+      "category": ["action"],
+      "rating": 5,
+      "developer": "LocalUser",
+      "published": "2024-07-01",
+      "plays": "0+",
+      "regions": ["global"],
+      "url": "/games/in33.html"
+    },
+    {
+      "id": 1002,
+      "title": {"en": "IN1 Action Game", "zh": "IN1 动作小游戏", "ja": "IN1 アクションゲーム", "ko": "IN1 액션 게임"},
+      "description": {"en": "A brand new HTML5 action game!", "zh": "全新HTML5动作小游戏！", "ja": "新しいHTML5アクションゲーム！", "ko": "새로운 HTML5 액션 게임!"},
+      "image": "/images/games/in1.png",
+      "category": ["action"],
+      "rating": 4.8,
+      "developer": "LocalUser",
+      "published": "2024-07-11",
+      "plays": "0+",
+      "regions": ["global"],
+      "url": "/games/in1.html"
+    }
+  ]
+} 
