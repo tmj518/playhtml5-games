@@ -3,7 +3,7 @@ const path = require('path');
 
 // 配置
 const CONFIG = {
-    siteUrl: 'https://playhtml5.com', // 替换为你的实际域名
+    siteUrl: 'https://www.ukhtml5games.com', // 替换为你的实际域名
     siteName: 'PlayHTML5',
     description: 'Free HTML5 Games Platform',
     outputDir: '../public',

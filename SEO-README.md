@@ -63,7 +63,7 @@ Allow: /images/games/
 Allow: /data/
 
 # 网站地图地址
-Sitemap: https://playhtml5.com/sitemap.xml
+Sitemap: https://www.ukhtml5games.com/sitemap.xml
 ```
 
 ### 3. 网站地图 (`/sitemap.xml`)
@@ -115,7 +115,7 @@ public/
 
 ```javascript
 const CONFIG = {
-    siteUrl: 'https://playhtml5.com', // 替换为你的实际域名
+    siteUrl: 'https://www.ukhtml5games.com', // 替换为你的实际域名
     siteName: 'PlayHTML5',
     description: 'Free HTML5 Games Platform',
     outputDir: '../public',

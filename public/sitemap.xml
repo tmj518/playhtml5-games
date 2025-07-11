@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- 首页 -->
     <url>
-        <loc>https://playhtml5.com/</loc>
+        <loc>https://www.ukhtml5games.com/</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -10,19 +10,19 @@
     
     <!-- 协议页面 -->
     <url>
-        <loc>https://playhtml5.com/terms.html</loc>
+        <loc>https://www.ukhtml5games.com/terms.html</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/privacy.html</loc>
+        <loc>https://www.ukhtml5games.com/privacy.html</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/copyright.html</loc>
+        <loc>https://www.ukhtml5games.com/copyright.html</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
@@ -30,13 +30,13 @@
     
     <!-- 游戏页面 -->
         <url>
-        <loc>https://playhtml5.com/games/1001.html</loc>
+        <loc>https://www.ukhtml5games.com/games/1001.html</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/games/1002.html</loc>
+        <loc>https://www.ukhtml5games.com/games/1002.html</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -45,73 +45,73 @@
     
     <!-- 分类页面 -->
         <url>
-        <loc>https://playhtml5.com/#all</loc>
+        <loc>https://www.ukhtml5games.com/#all</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#new</loc>
+        <loc>https://www.ukhtml5games.com/#new</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#popular</loc>
+        <loc>https://www.ukhtml5games.com/#popular</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#puzzle</loc>
+        <loc>https://www.ukhtml5games.com/#puzzle</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#action</loc>
+        <loc>https://www.ukhtml5games.com/#action</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#arcade</loc>
+        <loc>https://www.ukhtml5games.com/#arcade</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#strategy</loc>
+        <loc>https://www.ukhtml5games.com/#strategy</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#adventure</loc>
+        <loc>https://www.ukhtml5games.com/#adventure</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#card</loc>
+        <loc>https://www.ukhtml5games.com/#card</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#sports</loc>
+        <loc>https://www.ukhtml5games.com/#sports</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#educational</loc>
+        <loc>https://www.ukhtml5games.com/#educational</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://playhtml5.com/#casual</loc>
+        <loc>https://www.ukhtml5games.com/#casual</loc>
         <lastmod>2025-07-11</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

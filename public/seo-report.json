@@ -2,15 +2,15 @@
   "generatedAt": "2025-07-11T08:58:57.601Z",
   "siteInfo": {
     "name": "PlayHTML5",
-    "url": "https://playhtml5.com",
+    "url": "https://www.ukhtml5games.com",
     "description": "Free HTML5 Games Platform"
   },
   "files": {
-    "sitemap": "https://playhtml5.com/sitemap.xml",
-    "robots": "https://playhtml5.com/robots.txt",
-    "terms": "https://playhtml5.com/terms.html",
-    "privacy": "https://playhtml5.com/privacy.html",
-    "copyright": "https://playhtml5.com/copyright.html"
+    "sitemap": "https://www.ukhtml5games.com/sitemap.xml",
+    "robots": "https://www.ukhtml5games.com/robots.txt",
+    "terms": "https://www.ukhtml5games.com/terms.html",
+    "privacy": "https://www.ukhtml5games.com/privacy.html",
+    "copyright": "https://www.ukhtml5games.com/copyright.html"
   },
   "seoChecklist": [
     "✅ 生成sitemap.xml",

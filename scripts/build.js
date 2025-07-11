@@ -217,7 +217,7 @@ class Builder {
    * 生成sitemap.xml
    */
   async generateSitemap() {
-    const baseUrl = 'https://playhtml5.com';
+    const baseUrl = 'https://www.ukhtml5games.com';
     const languages = ['', 'zh', 'ja', 'ko'];
     const pages = ['', 'games', 'news', 'guides', 'about'];
     
@@ -251,7 +251,7 @@ class Builder {
     const robotsTxt = `User-agent: *
 Allow: /
 
-Sitemap: https://playhtml5.com/sitemap.xml
+Sitemap: https://www.ukhtml5games.com/sitemap.xml
 
 # 禁止访问管理页面
 Disallow: /admin/
