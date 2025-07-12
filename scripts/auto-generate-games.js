@@ -28,6 +28,11 @@ function parseCategoriesFromFilename(filename) {
   return categories.length ? categories : ["other"];
 }
 
+function toTitleCase(str) {
+  return str.replace(/_/g, ' ')
+            .replace(/\b\w/g, c => c.toUpperCase());
+}
+
 (async () => {
   const htmlFiles = (await fs.readdir(gamesDir)).filter(f => f.endsWith('.html'));
   const imageFiles = await fs.readdir(imagesDir);
@@ -43,19 +48,21 @@ function parseCategoriesFromFilename(filename) {
     if (!image) continue;
     id++;
     const categories = parseCategoriesFromFilename(html);
+    const englishTitle = `${toTitleCase(base)} Game`;
+    const englishDesc = `A brand new HTML5 ${categories.join(', ')} game!`;
     games.push({
       id,
       title: {
-        en: `${base.toUpperCase()} Game`,
-        zh: `${base.toUpperCase()} 小游戏`,
-        ja: `${base.toUpperCase()} ゲーム`,
-        ko: `${base.toUpperCase()} 게임`
+        en: englishTitle,
+        zh: englishTitle,
+        ja: englishTitle,
+        ko: englishTitle
       },
       description: {
-        en: `A brand new HTML5 ${categories.join(', ')} game!`,
-        zh: `全新HTML5${categories.join('、')}小游戏！`,
-        ja: `新しいHTML5${categories.join('・')}ゲーム！`,
-        ko: `새로운 HTML5 ${categories.join(', ')} 게임!`
+        en: englishDesc,
+        zh: englishDesc,
+        ja: englishDesc,
+        ko: englishDesc
       },
       image: `/images/games/${image}`,
       category: categories,
